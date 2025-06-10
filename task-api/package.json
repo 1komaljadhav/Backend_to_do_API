@@ -1,0 +1,15 @@
+{
+  "name": "task-api",
+  "version": "1.0.0",
+  "description": "A simple task API using Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "uuid": "^9.0.1"
+  }
+}
